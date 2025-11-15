@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Build outputs
+dist/
+build/
+.next/
+.turbo/
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# TanStack Start artifacts
+app.config.timestamp_*.js
