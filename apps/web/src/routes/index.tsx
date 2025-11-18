@@ -7,7 +7,7 @@ export const Route = createFileRoute('/')({
 
 function Home() {
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-blue-50 to-indigo-100">
+    <div className="min-h-screen flex items-center justify-center bg-linear-to-br from-blue-50 to-indigo-100">
       <div className="max-w-2xl mx-auto px-4 text-center">
         <h1 className="text-5xl font-bold text-gray-900 mb-4">
           Welcome to Todo App
